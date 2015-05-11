@@ -1,0 +1,15 @@
+{
+    "name": "pierrejoy/igbinary",
+    "version": "1.2.2-dev-dev",
+    "type": "extension",
+    "license": [
+        "New BSD"
+    ],
+    "authors": [
+        {
+            "name": "Teddy Grenman",
+            "email": "teddy.pecl@luuseri.com"
+        }
+    ],
+    "description": "igbinary extension"
+}
