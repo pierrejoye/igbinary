@@ -1,7 +1,7 @@
 {
     "name": "pierrejoye/igbinary",
-    "version": "1.2.2-dev-dev",
     "type": "extension",
+	"keywords": ["serializer", "serializition", "serialize","binary"],
     "license": [
         "New BSD"
     ],
